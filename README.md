@@ -3,7 +3,7 @@ Microsoft Intune Reports Export Tool - Dynamic Column Selection v1.0 Exports all
 # 📘 Intune Data Export Tool – Prerequisites & Setup Guide
 
 ## ⚙️ System Requirements
-Recommended to use Visual Studio code to read the code
+Recommended to use Visual Studio code to read the script.
 | Requirement        | Minimum | Recommended |
 |--------------------|---------|-------------|
 | **Python Version** | 3.8+    | 3.11+       |
@@ -30,13 +30,13 @@ Recommended to use Visual Studio code to read the code
    ```bash
    pip install requests pandas pyautogui openpyxl
 ## 🔑 Required Delegated Permissions:
-1. DeviceManagementConfiguration.Read.All
-2. DeviceManagementManagedDevices.Read.All
-3. DeviceManagementApps.Read.All
-4. User.ReadBasic.All
-5. Group.Read.All
-6. Directory.Read.All
+1. -`DeviceManagementConfiguration.Read.All`
+2. -`DeviceManagementManagedDevices.Read.All`
+3. -`DeviceManagementApps.Read.All`
+4. -`User.ReadBasic.All`
+5. -`Group.Read.All`
+6. -`Directory.Read.All`
 ## 📞 Support & Updates
-• Developer: -`HTMD Community`
-• Contact: -+`91 8971222240`
-• Version: 1.0 (November 2025)
+1. Developer: -`HTMD Community`
+2. Contact: -+`91 8971222240`
+3. Version: 1.0 (November 2025)
