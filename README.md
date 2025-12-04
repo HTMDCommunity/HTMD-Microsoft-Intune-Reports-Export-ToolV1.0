@@ -28,3 +28,14 @@ Microsoft Intune Reports Export Tool - Dynamic Column Selection v1.0 Exports all
 2. Install required modules:
    ```bash
    pip install requests pandas pyautogui openpyxl
+## 🔑 Required Delegated Permissions:
+• DeviceManagementConfiguration.Read.All
+• DeviceManagementManagedDevices.Read.All
+• DeviceManagementApps.Read.All
+• User.ReadBasic.All
+• Group.Read.All
+• Directory.Read.All
+## 📞 Support & Updates
+• Developer: -`HTMD Community`
+• Contact: -+`91 8971222240`
+• Version: 1.0 (November 2025)
