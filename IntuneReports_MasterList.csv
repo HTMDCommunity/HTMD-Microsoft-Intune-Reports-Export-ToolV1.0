@@ -1,0 +1,179 @@
+﻿Number,Category,Report Name,Description
+1,Security & Antivirus,ActiveMalware,Active Malware Detections
+2,Security & Antivirus,DefenderAgents,Microsoft Defender Agent Status
+3,Security & Antivirus,Malware,Detected Malware Reports
+4,Security & Antivirus,UnhealthyDefenderAgents,Unhealthy Defender Endpoints
+5,Security & Antivirus,FirewallStatus,MDM Firewall Status for Windows 10+
+6,Security & Antivirus,FirewallUnhealthyStatus,Firewall Unhealthy Status
+7,Apps & Application Management,AllAppsList,All Apps List
+8,Apps & Application Management,FilteredAppsList,Filtered Apps List
+9,Apps & Application Management,AppInstallStatusAggregate,App Install Status Aggregate
+10,Apps & Application Management,AppInvAggregate,Discovered Apps Aggregate
+11,Apps & Application Management,AppInvByDevice,Discovered Apps by Device
+12,Apps & Application Management,AppInvRawData,Discovered Apps Raw Data
+13,Apps & Application Management,CatalogAppsUpdateList,Enterprise App Catalog Updates
+14,Apps & Application Management,DependentAppsInstallStatus,Dependent Apps Install Status
+15,Apps & Application Management,DeviceInstallStatusByApp,Device Install Status by App
+16,Apps & Application Management,DevicesByAppInv,Devices by App Inventory
+17,Apps & Application Management,OrgAppsInstallStatus,Org Apps Install Status
+18,Apps & Application Management,UserInstallStatusAggregateByApp,User Install Status by App
+19,Mobile Application Management,MAMAppConfigurationStatus,MAM App Configuration Status
+20,Mobile Application Management,MAMAppConfigurationStatusScopedV2,MAM App Config Status Scoped V2
+21,Mobile Application Management,MAMAppConfigurationStatusV2,MAM App Configuration Status V2
+22,Mobile Application Management,MAMAppProtectionStatus,MAM App Protection Status (iOS/Android)
+23,Mobile Application Management,MAMAppProtectionStatusScopedV2,MAM App Protection Status Scoped V2
+24,Mobile Application Management,MAMAppProtectionStatusV2,MAM App Protection Status V2
+25,Device Management & Inventory,Devices,All Managed Devices
+26,Device Management & Inventory,DevicesWithInventory,Devices with Hardware Inventory
+27,Device Management & Inventory,AllDeviceCertificates,All Device Certificates
+28,Device Management & Inventory,CertificatesByRAPolicy,Certificates by Registration Authority Policy
+29,Device Management & Inventory,TpmAttestationStatus,TPM Attestation Status
+30,Device Management & Inventory,MEMUpgradeReadinessOrgAsset,MEM Upgrade Readiness Org Assets
+31,Device Compliance,DeviceCompliance,Device Compliance Status
+32,Device Compliance,DeviceComplianceTrend,Device Compliance Trend
+33,Device Compliance,DeviceNonCompliance,Device Non-Compliance Report
+34,Device Compliance,DevicesWithoutCompliancePolicy,Devices Without Compliance Policy
+35,Device Compliance,DevicesWithoutCompliancePolicyV3,Devices Without Compliance Policy V3
+36,Device Compliance,NonCompliantDevicesByCompliancePolicy,Non-Compliant Devices by Policy
+37,Device Compliance,NonCompliantDevicesByCompliancePolicyV3,Non-Compliant Devices by Policy V3
+38,Device Compliance,NoncompliantDevicesAndSettings,Non-Compliant Devices and Settings
+39,Device Compliance,NoncompliantDevicesAndSettingsV3,Non-Compliant Devices and Settings V3
+40,Device Compliance,NoncompliantDevicesToBeRetired,Non-Compliant Devices to be Retired
+41,Device Compliance,NonCompliantCompliancePoliciesAggregate,Non-Compliant Policies Aggregate
+42,Device Compliance,NonCompliantCompliancePoliciesAggregateV3,Non-Compliant Policies Aggregate V3
+43,Device Compliance,NonCompliantConfigurationPoliciesAggregateWithPF,Non-Compliant Config Policies with PF
+44,Device Compliance,NonCompliantConfigurationPoliciesAggregateWithPFV3,Non-Compliant Config Policies with PF V3
+45,Configuration Policies,ConfigurationPolicyAggregate,Configuration Policy Aggregate
+46,Configuration Policies,ConfigurationPolicyAggregateV3,Configuration Policy Aggregate V3
+47,Configuration Policies,ConfigurationPolicyDeviceAggregates,Configuration Policy Device Aggregates
+48,Configuration Policies,ConfigurationPolicyDeviceAggregatesV3,Configuration Policy Device Aggregates V3
+49,Configuration Policies,ConfigurationPolicyDeviceAggregatesWithPF,Configuration Policy Device Aggregates with PF
+50,Configuration Policies,ConfigurationPolicyDeviceAggregatesWithPFV3,Configuration Policy Device Aggregates with PF V3
+51,Configuration Policies,DeviceConfigurationPolicyStatuses,Device Configuration Policy Status
+52,Configuration Policies,DeviceConfigurationPolicyStatusesV3,Device Configuration Policy Status V3
+53,Configuration Policies,DeviceConfigurationPolicyStatusesWithPF,Device Configuration Policy Status with PF
+54,Configuration Policies,DeviceConfigurationPolicyStatusesWithPFV3,Device Configuration Policy Status with PF V3
+55,Configuration Policies,Policies,All Device Policies
+56,Device Assignment & Status,DeviceAssignmentStatusByConfigurationPolicy,Device Assignment Status by Config Policy
+57,Device Assignment & Status,DeviceAssignmentStatusByConfigurationPolicyForAC,Device Assignment Status for App Control
+58,Device Assignment & Status,DeviceAssignmentStatusByConfigurationPolicyForASR,Device Assignment Status for ASR
+59,Device Assignment & Status,DeviceAssignmentStatusByConfigurationPolicyForEDR,Device Assignment Status for EDR
+60,Device Assignment & Status,DeviceAssignmentStatusByConfigurationPolicyV3,Device Assignment Status by Config Policy V3
+61,Device Assignment & Status,DeviceStatusesByConfigurationProfile,Device Status by Configuration Profile
+62,Device Assignment & Status,DeviceStatusesByConfigurationProfileForAppControl,Device Status by Config Profile for App Control
+63,Device Assignment & Status,DeviceStatusesByConfigurationProfileForASR,Device Status by Config Profile for ASR
+64,Device Assignment & Status,DeviceStatusesByConfigurationProfileForEDR,Device Status by Config Profile for EDR
+65,Device Assignment & Status,DeviceStatusesByConfigurationProfileV3,Device Status by Configuration Profile V3
+66,Device Assignment & Status,DeviceStatusesByConfigurationProfileWithPF,Device Status by Config Profile with PF
+67,Device Assignment & Status,DeviceStatusesByConfigurationProfileWithPFV3,Device Status by Config Profile with PF V3
+68,Device Assignment & Status,DeviceStatusesByInventoryPolicyWithPF,Device Status by Inventory Policy with PF
+69,Device Assignment & Status,DeviceStatusesByInventoryPolicyWithPFV3,Device Status by Inventory Policy with PF V3
+70,Compliance Policy Reports,DevicePoliciesComplianceReport,Device Policies Compliance Report
+71,Compliance Policy Reports,DevicePoliciesComplianceReportV3,Device Policies Compliance Report V3
+72,Compliance Policy Reports,DevicePolicySettingsComplianceReport,Device Policy Settings Compliance Report
+73,Compliance Policy Reports,DevicePolicySettingsComplianceReportV3,Device Policy Settings Compliance Report V3
+74,Compliance Policy Reports,DeviceStatusByCompliacePolicyReport,Device Status by Compliance Policy Report
+75,Compliance Policy Reports,DeviceStatusByCompliacePolicyReportV3,Device Status by Compliance Policy Report V3
+76,Compliance Policy Reports,DeviceStatusByCompliancePolicySettingReport,Device Status by Compliance Policy Setting
+77,Compliance Policy Reports,DeviceStatusByCompliancePolicySettingReportV3,Device Status by Compliance Policy Setting V3
+78,Compliance Policy Reports,DeviceStatusSummaryByCompliacePolicyReport,Device Status Summary by Compliance Policy
+79,Compliance Policy Reports,DeviceStatusSummaryByCompliacePolicyReportV3,Device Status Summary by Compliance Policy V3
+80,Compliance Policy Reports,DeviceStatusSummaryByCompliancePolicySettingsReport,Device Status Summary by Compliance Policy Settings
+81,Compliance Policy Reports,DeviceStatusSummaryByCompliancePolicySettingsReportV3,Device Status Summary by Compliance Policy Settings V3
+82,Compliance Policy Reports,DevicesStatusByPolicyPlatformComplianceReport,Devices Status by Policy Platform Compliance
+83,Compliance Policy Reports,DevicesStatusByPolicyPlatformComplianceReportV3,Devices Status by Policy Platform Compliance V3
+84,Compliance Policy Reports,DevicesStatusBySettingReport,Devices Status by Setting Report
+85,Compliance Policy Reports,DevicesStatusBySettingReportV3,Devices Status by Setting Report V3
+86,Compliance Policy Reports,PolicyComplianceAggReport,Policy Compliance Aggregate Report
+87,Compliance Policy Reports,PolicyComplianceAggReportV3,Policy Compliance Aggregate Report V3
+88,Compliance Policy Reports,PolicyNonComplianceAgg,Policy Non-Compliance Aggregate
+89,Compliance Policy Reports,PolicyNonComplianceAggVer3,Policy Non-Compliance Aggregate V3
+90,Compliance Policy Reports,PolicyNonComplianceNew,Policy Non-Compliance New
+91,Compliance Policy Reports,PolicyNonComplianceNewV3,Policy Non-Compliance New V3
+92,Compliance Policy Reports,SettingComplianceAggReport,Setting Compliance Aggregate Report
+93,Compliance Policy Reports,SettingComplianceAggReportV3,Setting Compliance Aggregate Report V3
+94,Windows Updates,FeatureUpdateDeviceState,Feature Update Device State
+95,Windows Updates,FeatureUpdatePolicyFailuresAggregate,Feature Update Policy Failures Aggregate
+96,Windows Updates,FeatureUpdatePolicyStatusSummary,Feature Update Policy Status Summary
+97,Windows Updates,QualityUpdateDeviceErrorsByPolicy,Quality Update Device Errors by Policy
+98,Windows Updates,QualityUpdateDeviceStatusByPolicy,Quality Update Device Status by Policy
+99,Windows Updates,QualityUpdatePolicyStatusSummary,Quality Update Policy Status Summary
+100,Windows Updates,WindowsUpdatePerPolicyPerDeviceStatus,Windows Update per Policy per Device Status
+101,Windows Updates,DriverUpdatePolicyStatusSummary,Driver Update Policy Status Summary
+102,Windows Updates,DeviceFailuresByFeatureUpdatePolicy,Device Failures by Feature Update Policy
+103,Windows Updates,WindowsDeviceHealthAttestationReport,Windows Device Health Attestation Report
+104,Enrollment & Autopilot,EnrollmentActivity,Device Enrollment Activity
+105,Enrollment & Autopilot,DeviceEnrollmentFailures,Device Enrollment Failures
+106,Enrollment & Autopilot,EnrollmentConfigurationPoliciesByDevice,Enrollment Configuration Policies by Device
+107,Enrollment & Autopilot,AutopilotV1DeploymentStatus,Autopilot V1 Deployment Status
+108,Enrollment & Autopilot,AutopilotV2DeploymentStatus,Autopilot V2 Deployment Status
+109,Enrollment & Autopilot,AutopilotV2DeploymentStatusDetailedAppInfo,Autopilot V2 Deployment Status - App Info
+110,Enrollment & Autopilot,AutopilotV2DeploymentStatusDetailedScriptInfo,Autopilot V2 Deployment Status - Script Info
+111,Endpoint Analytics - Device Performance,EADevicePerformance,Endpoint Analytics Device Performance
+112,Endpoint Analytics - Device Performance,EADevicePerformanceV2,Endpoint Analytics Device Performance V2
+113,Endpoint Analytics - Device Performance,EADeviceModelPerformance,Endpoint Analytics Device Model Performance
+114,Endpoint Analytics - Device Performance,EADeviceModelPerformanceV2,Endpoint Analytics Device Model Performance V2
+115,Endpoint Analytics - Device Performance,EADeviceScoresV2,Endpoint Analytics Device Scores V2
+116,Endpoint Analytics - Device Performance,EAModelScoresV2,Endpoint Analytics Model Scores V2
+117,Endpoint Analytics - Application Performance,EAAppPerformance,Endpoint Analytics App Performance
+118,Endpoint Analytics - Application Performance,EAOSVersionsPerformance,Endpoint Analytics OS Versions Performance
+119,Endpoint Analytics - Startup Performance,EAStartupPerfDevicePerformance,Endpoint Analytics Startup Performance - Device
+120,Endpoint Analytics - Startup Performance,EAStartupPerfDevicePerformanceV2,Endpoint Analytics Startup Performance - Device V2
+121,Endpoint Analytics - Startup Performance,EAStartupPerfDeviceProcesses,Endpoint Analytics Startup Performance - Device Processes
+122,Endpoint Analytics - Startup Performance,EAStartupPerfModelPerformance,Endpoint Analytics Startup Performance - Model
+123,Endpoint Analytics - Startup Performance,EAStartupPerfModelPerformanceV2,Endpoint Analytics Startup Performance - Model V2
+124,Endpoint Analytics - Resource Performance,EAResourcePerfAggByDevice,Endpoint Analytics Resource Performance by Device
+125,Endpoint Analytics - Resource Performance,EAResourcePerfAggByModel,Endpoint Analytics Resource Performance by Model
+126,Endpoint Analytics - Resource Performance,EAResourcePerfCpuSpikeProcess,Endpoint Analytics Resource Performance - CPU Spikes
+127,Endpoint Analytics - Resource Performance,EAResourcePerfRamSpikeProcess,Endpoint Analytics Resource Performance - RAM Spikes
+128,Endpoint Analytics - Resource Performance,ResourcePerformanceAggregateByDevice,Resource Performance Aggregate by Device
+129,Endpoint Analytics - Resource Performance,ResourcePerformanceAggregateByModel,Resource Performance Aggregate by Model
+130,Endpoint Analytics - Battery Health,BRBatteryByModel,Battery Report by Model Performance
+131,Endpoint Analytics - Battery Health,BRBatteryByOs,Battery Report by OS Performance
+132,Endpoint Analytics - Battery Health,BRDeviceBatteryAgg,Battery Report Device Performance Aggregate
+133,Endpoint Analytics - Battery Health,BREnergyUsage,Battery Report Energy Usage
+134,Endpoint Analytics - Work from Anywhere,EAWFADeviceList,Endpoint Analytics Work from Anywhere - Device List
+135,Endpoint Analytics - Work from Anywhere,EAWFAModelPerformance,Endpoint Analytics Work from Anywhere - Model Performance
+136,Endpoint Analytics - Work from Anywhere,EAWFAPerDevicePerformance,Endpoint Analytics Work from Anywhere - Per Device Performance
+137,Endpoint Analytics - Work from Anywhere,WorkFromAnywhereDeviceList,Work from Anywhere Device List
+138,Endpoint Analytics - Anomalies,EAAnomalyAsset,Endpoint Analytics Anomaly Assets
+139,Endpoint Analytics - Anomalies,EAAnomalyAssetV2,Endpoint Analytics Anomaly Assets V2
+140,Endpoint Analytics - Anomalies,EAAnomalyDeviceAsset,Endpoint Analytics Anomaly Device Assets
+141,Endpoint Analytics - Anomalies,EAAnomalyDeviceAssetV2,Endpoint Analytics Anomaly Device Assets V2
+142,Scripts & Proactive Remediations,DeviceRunStatesByScript,Device Run States by Script
+143,Scripts & Proactive Remediations,DeviceRunStatesByProactiveRemediation,Device Run States by Proactive Remediation
+144,Scripts & Proactive Remediations,PolicyRunStatesByProactiveRemediation,Policy Run States by Proactive Remediation
+145,Endpoint Privilege Management,EpmAggregationReportByApplication,EPM Elevation Report by Application
+146,Endpoint Privilege Management,EpmAggregationReportByApplicationV2,EPM Elevation Report by Application V2
+147,Endpoint Privilege Management,EpmAggregationReportByPublisher,EPM Elevation Report by Publisher
+148,Endpoint Privilege Management,EpmAggregationReportByPublisherV2,EPM Elevation Report by Publisher V2
+149,Endpoint Privilege Management,EpmAggregationReportByUser,EPM Elevation Report by User
+150,Endpoint Privilege Management,EpmAggregationReportByUserV2,EPM Elevation Report by User V2
+151,Endpoint Privilege Management,EpmAggregationReportByUserAppByMonth,EPM Elevation Report by User App by Month
+152,Endpoint Privilege Management,EpmDeniedReport,EPM Denied Elevations Report
+153,Endpoint Privilege Management,EpmElevationReportByUserAppByDayToReporting,EPM Elevation Report by User App by Day
+154,Endpoint Privilege Management,EpmElevationReportElevationEvent,EPM Elevation Report - Elevation Events
+155,Endpoint Privilege Management,EpmInsightsElevationTrend,EPM Insights Elevation Trend
+156,Endpoint Privilege Management,EpmInsightsMostFrequentElevations,EPM Insights Most Frequent Elevations
+157,Endpoint Privilege Management,EpmInsightsReport,EPM Insights Report
+158,Device Settings & Configuration,DeviceIntentPerSettingStatus,Device Intent per Setting Status
+159,Device Settings & Configuration,DeviceInventoryPolicyStatusesV3,Device Inventory Policy Status V3
+160,Device Settings & Configuration,DeviceInventoryPolicyStatusesWithPF,Device Inventory Policy Status with PF
+161,Device Settings & Configuration,InventoryPolicyDeviceAggregatesV3,Inventory Policy Device Aggregates V3
+162,Device Settings & Configuration,InventoryPolicyDeviceAggregatesWithPF,Inventory Policy Device Aggregates with PF
+163,Device Settings & Configuration,PerSettingDeviceSummaryByConfigurationPolicy,Per Setting Device Summary by Configuration Policy
+164,Device Settings & Configuration,PerSettingDeviceSummaryByConfigurationPolicyForAppControl,Per Setting Device Summary for App Control
+165,Device Settings & Configuration,PerSettingDeviceSummaryByConfigurationPolicyForEDR,Per Setting Device Summary for EDR
+166,Device Settings & Configuration,PerSettingDeviceSummaryByInventoryPolicy,Per Setting Device Summary by Inventory Policy
+167,Device Settings & Configuration,PerSettingDeviceSummaryByInventoryPolicyV3,Per Setting Device Summary by Inventory Policy V3
+168,Device Settings & Configuration,PerSettingSummaryByDeviceConfigurationPolicy,Per Setting Summary by Device Configuration Policy
+169,Device Settings & Configuration,ADMXSettingsByDeviceByPolicy,ADMX Settings by Device by Policy
+170,Co-management & Cloud Attached,ComanagedDeviceWorkloads,Co-managed Device Workloads
+171,Co-management & Cloud Attached,ComanagementEligibilityTenantAttachedDevices,Co-management Eligibility Tenant Attached Devices
+172,Group Policy Analytics,GPAnalyticsSettingMigrationReadiness,Group Policy Analytics Migration Readiness
+173,Security Tasks & Monitoring,TicketingSecurityTaskAppsList,Security Task Apps List
+174,Security Tasks & Monitoring,OrgDeviceInstallStatus,Org Device Install Status
+175,Users & Remote Assistance,Users,All Users
+176,Users & Remote Assistance,AllGroupsInMyOrg,All Groups in My Organization
+177,Users & Remote Assistance,RemoteAssistanceSessions,Remote Assistance Sessions
+178,Users & Remote Assistance,UserScaleTest,User Scale Test Report
